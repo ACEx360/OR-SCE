@@ -2,9 +2,10 @@
 Operations Research — SCE Project
 
 **Students:**
-- Alpesh Thool (Roll No: 05)
-- Mohammad Tayyab (Roll No: 31)
-
+- Alpesh Thool 22310727 05
+- chinmay kale 22310757 21
+- Tayyab Mohammed 22311292 32
+- Tanishq Raina 22310084 17
 **Class / Division:** B.Tech Data Science  
 **Faculty Guide:** Prof. VijayKumar Ghule  
 
